@@ -14,7 +14,7 @@ It is a port in Python of **MemPad**, a Windows program made by
 
 The "X" in **MemPadX** stands for cross-platform.
 
-The version here, is the Python project exported to Windows, just in case you'd rather use it without installing Python.
+The version here, is the Python project exported to Windows with PyInstaller, just in case you'd rather use it without installing Python.
 
 ## Features
 
